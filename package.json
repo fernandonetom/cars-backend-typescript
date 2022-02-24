@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fernandonetom/cars-backend-typescript/issues"
   },
-  "homepage": "https://github.com/fernandonetom/cars-backend-typescript#readme"
+  "homepage": "https://github.com/fernandonetom/cars-backend-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
