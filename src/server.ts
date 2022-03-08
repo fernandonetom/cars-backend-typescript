@@ -5,7 +5,8 @@ import 'express-async-errors';
 import express from 'express';
 import swaggerUI from 'swagger-ui-express';
 
-import { ErrorMiddleware } from './errors/ErrorMiddleware';
+import { ErrorMiddleware } from '@errors/ErrorMiddleware';
+
 import { router } from './routes';
 import swaggerFile from './swagger.json';
 
