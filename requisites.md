@@ -2,18 +2,17 @@
 
 **RF** => Requisitos funcionais
 
-- Deve ser possível cadastrar um novo carro
-- Deve ser possível listar todas as categorias
+- [x] Deve ser possível cadastrar um novo carro
 
 
 **RNF** => Requisitos não funcionais
 
 **RN** => Regra de negócio
 
-- Não deve cadastrar um carro com uma placa existente
-- Não deve ser possível alterar a placa de um carro
-- `available` como `true`
-- Apenas admin pode cadastrar
+- [x] Não deve cadastrar um carro com uma placa existente
+- * Não deve ser possível alterar a placa de um carro
+- [x] `available` como `true`
+- * Apenas admin pode cadastrar
 
 
 
